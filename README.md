@@ -1,5 +1,4 @@
-# pop3-username-bruteforce
-POP3 Bruteforce Script using a public key certificate
+# POP3 Bruteforce Script using a public key certificate 
 
 ## How To Use
 ```
