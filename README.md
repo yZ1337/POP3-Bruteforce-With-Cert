@@ -10,3 +10,4 @@ pip install ssl
 # Change file locations inside script then run
 python3 pop3.py
 ```
+There is also a a PERL version of the script `pop3-brute.pl`
